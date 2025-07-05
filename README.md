@@ -1,4 +1,4 @@
-## Hi there 👋
+## Welcome to the RPI Class of 1979 GitHub repository.  This site will have information about the class 50th Reunion scheduled for fall 2029.  Tell your classmates to meet you at Reunion 2029! 
 
 <!--
 **RPIclassof1979/RPIclassof1979** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
